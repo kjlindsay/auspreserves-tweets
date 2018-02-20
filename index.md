@@ -1,11 +1,11 @@
-# Twitter Coverage of AusPreserves
-Peter Neish  
+# Twitter Coverage of RSCDay2018
+Kathryn Lindsay  
 `r Sys.time()`  
 
 
 
 # Introduction
-An analysis of tweets from auspreserves. Code is available on [GitHub](https://github.com/peterneish/auspreserves-tweets).
+An analysis of tweets from rscday2018. Code is available on [GitHub](https://github.com/kjlindsay/rscd2018-tweets).
 
 286
 tweets were collected using the `rtweet` R package:
@@ -36,7 +36,7 @@ Filtered for dates August 21-25, Melbourne time.
 
 # Networks
 ## Replies
-The "replies network", composed from users who reply directly to one another, 
+The "replies network", composed from users who reply directly to one another,
 coloured by page rank.
 
 Click to view image.
